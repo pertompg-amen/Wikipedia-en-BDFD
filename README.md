@@ -10,7 +10,7 @@
 |-----------|---------|
 | 📱 App | [Bot Designer For Discord (BDFD)](https://botdesignerdiscord.com/) |
 | 📝 Lenguaje | BdScript 2 |
-| 🌐 Acceso a internet | Requerido para las llamadas HTTP |
+| 🌐 Acceso a internet | Requerido para las llamadas HTTP (y pa abrir Discord :V) |
 | 🔑 Permisos del bot | `Send Messages`, `Embed Links` |
 
 > [!IMPORTANT]
