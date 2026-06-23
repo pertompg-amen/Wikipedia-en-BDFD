@@ -31,7 +31,7 @@
 
 ## 🧾 Código
 
-```
+```python
 $nomention
 $botTyping
 $httpGet[https://es.wikipedia.org/api/rest_v1/page/summary/$replaceText[$message; ;_]]
@@ -91,7 +91,7 @@ $endif
 <div align="center">
   <img src="https://i.ibb.co/VY8QsqXH/Screenshot-20260623-191822-Discord.jpg" alt="Vista previa del comando !wiki en Discord" width="400"/>
   <br/>
-  <sub>⬆️ Resultado del comando <code>!wiki Rias Gremory</code> en Discord</sub>
+  <sub>⬆️ Resultado del comando <code>!wiki La Nobleza De Las Flores</code> en Discord</sub>
 </div>
 
 ---
