@@ -31,7 +31,7 @@
 
 ## 🧾 Código
 
-```js
+```rb
 $nomention
 $botTyping
 $httpGet[https://es.wikipedia.org/api/rest_v1/page/summary/$replaceText[$message; ;_]]
